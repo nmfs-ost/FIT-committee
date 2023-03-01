@@ -1,9 +1,15 @@
 # FIT-committee
-Repository for FIT committe to use for communication. May use for:
+
+Repository for the FIT committee to use for communication. May be used for:
  - Tracking elements of the FIT strategic plan
- - Conducting polls
+ - Conducting polls (?)
+ - Other purposes the FIT committee deems relavent.
  
 Under construction :construction:
+
+## Do I need to watch the repository?
+
+You can, to see all the details! However, watching a repository is too much information for some people, so we should assume that not everyone is watching and use tags (e.g., @k-doering-NOAA) to make sure the intended recepient gets a notification. We will also go over important aspects of the repository in FIT meetings and over email.
 
 ## Helpful Documents
 - [FIT committee purpose and roles doc](https://docs.google.com/document/d/17QNyOUledJpV_Uw7soKffRO-DIPQi9p8AjSEmXkQpQA/edit)
