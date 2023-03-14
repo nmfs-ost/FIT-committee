@@ -2,7 +2,7 @@
 
 Repository for the FIT committee to use for communication. May be used for:
  - Tracking elements of the FIT strategic plan
- - Conducting polls (?)
+ - Conducting polls (?; trying out Google forms first)
  - Other purposes the FIT committee deems relavent.
  
 Under construction :construction:
