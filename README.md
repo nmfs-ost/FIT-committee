@@ -26,7 +26,7 @@ You can, to see all the details! However, watching a repository is too much info
 
 ## Quick Guide to admin processes
 
-This is a quick description of how to onboard and update tools and reporting issues. The rest of the readme contains more details about how to onboard and update tools.
+This is a quick description of various admin processes. Please open an issue if you would like more detail on any of these or anything is unclear!
 
 ### Onboard new tools to toolbox
 1. Author submits request to https://github.com/noaa-fisheries-integrated-toolbox/onboard-and-update/issues/new/choose
