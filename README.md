@@ -16,6 +16,7 @@ You can, to see all the details! However, watching a repository is too much info
 
 ## Helpful Github Repo links
 
+- [FY 2023 strategic plan tracking](https://github.com/orgs/noaa-fisheries-integrated-toolbox/projects/3)
 - [Repository for managing most toolbox webpages](https://github.com/noaa-fisheries-integrated-toolbox/toolbox_web_templating)
 - [Repository for managing the FIT resources](https://github.com/noaa-fisheries-integrated-toolbox/resources)
 - [Repository for communicating developers and onborading tools](https://github.com/noaa-fisheries-integrated-toolbox/onboard-and-update)
@@ -29,6 +30,8 @@ You can, to see all the details! However, watching a repository is too much info
 This is a quick description of various admin processes. Please open an issue if you would like more detail on any of these or anything is unclear!
 
 ### Onboard new tools to toolbox
+
+Note: steps will need to be added once we adopt tool quality standards
 1. Author submits request to https://github.com/noaa-fisheries-integrated-toolbox/onboard-and-update/issues/new/choose
 2. Admin creates new development webpages ([detailed instructions](https://github.com/noaa-fisheries-integrated-toolbox/toolbox_web_templating#how-to-update-or-add-tool-landing-pages))
 3. Admin shares development webpages with tool authors
