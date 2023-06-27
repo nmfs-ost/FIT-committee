@@ -24,3 +24,39 @@ You can, to see all the details! However, watching a repository is too much info
 - [FIT prod site](https://noaa-fisheries-integrated-toolbox.github.io/)
 - [FIT dev site](https://noaa-fisheries-integrated-toolbox.github.io/fit-dev/)
 
+## Quick Guide to admin processes
+
+This is a quick description of how to onboard and update tools and reporting issues. The rest of the readme contains more details about how to onboard and update tools.
+
+### Onboard new tools to toolbox
+1. Author submits request to https://github.com/noaa-fisheries-integrated-toolbox/onboard-and-update/issues/new/choose
+2. Admin creates new development webpages ([detailed instructions](https://github.com/noaa-fisheries-integrated-toolbox/toolbox_web_templating#how-to-update-or-add-tool-landing-pages))
+3. Admin shares development webpages with tool authors
+4. Once tool authors approve, admin requests and then merges changes into main.
+
+### Update tools in toolbox
+1. Author submits request to https://github.com/noaa-fisheries-integrated-toolbox/onboard-and-update/issues/new/choose
+2. Admin updates webpages ([detailed instructions](https://github.com/noaa-fisheries-integrated-toolbox/toolbox_web_templating#how-to-update-or-add-tool-landing-pages))
+3. Admin shares development updated webpages with tool authors
+4. Once tool authors approve, admin requests and then merges changes into main.
+
+### reporting issues
+
+Issues can be reported to https://github.com/noaa-fisheries-integrated-toolbox/toolbox_web_templating/issues
+
+### Updating FIT resources
+
+[Resources](https://noaa-fisheries-integrated-toolbox.github.io/resources/) are updated in https://github.com/noaa-fisheries-integrated-toolbox/resources. All posts are located in the 'posts' folder and are written in markdown. Changes can be submitted as a pull request. See the [resources readme](https://github.com/noaa-fisheries-integrated-toolbox/resources#readme) for additional details.
+
+### FIT email
+
+FIT has a service email, fisheries.toolbox@noaa.gov . Kathryn and Christine have access to it. Contact Kathryn if more info is needed.
+
+### FIT committee
+
+The FIT committee meets monthly and advises on the direction for the toolbox. More info for commitee members is available at https://github.com/noaa-fisheries-integrated-toolbox/fit-committee
+
+### Google Analytics and Google search console
+
+Kathryn, Christine, and Avi have access. Contact them to learn more.
+
