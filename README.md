@@ -11,21 +11,21 @@ You can, to see all the details! However, watching a repository is too much info
 ## Helpful Documents
 - [FIT committee purpose and roles doc](https://docs.google.com/document/d/17QNyOUledJpV_Uw7soKffRO-DIPQi9p8AjSEmXkQpQA/edit)
 - [FIT committee meeting notes](https://docs.google.com/document/d/12CVGWsHG4vBYvwzmViyomfzN9CWcrCuuKH94m1364Dk/edit)
-- [FIT mission, vision, and strategic plan doc](https://docs.google.com/document/d/1Pv3z64fK2r5hpvFhsdkn2r5kXB8ZVImoz3KzfIg_DPI/edit)
+- [FIT strategic plan doc](https://docs.google.com/document/d/1Pv3z64fK2r5hpvFhsdkn2r5kXB8ZVImoz3KzfIg_DPI/edit)
 - [FIT shared google drive folder](https://drive.google.com/drive/folders/17YrvlA4RyagUAQNbMMj2LtMSFHnpV6Hf)
 
 ## Helpful Github Repo links
 
-- [FY 2025 strategic plan tracking](https://github.com/orgs/nmfs-ost/projects/33)
+- [FY 2026 strategic plan tracking](https://github.com/orgs/nmfs-ost/projects/50)
 - [Repository for managing most toolbox webpages](https://github.com/nmfs-ost/FIT_web_templating)
-- [Repository for managing the FIT resources](https://github.com/nmfs-ost/noaa-fit-resources)
+- [Repository for managing the FIT resources blog](https://github.com/nmfs-ost/noaa-fit-resources)
 - [Repository for communicating developers and onborading tools](https://github.com/nmfs-ost/FIT-onboard-and-update)
+- [Repository for testing tool quality standards](https://github.com/nmfs-ost/FIT-test-quality-checks) (Internal)
 
 ## Helpful website links
 - [FIT noaa.gov page](https://www.fisheries.noaa.gov/resource/tool-app/noaa-fisheries-integrated-toolbox)
 - [FIT prod site](https://nmfs-ost.github.io/noaa-fit/)
 - [FIT dev site](https://nmfs-ost.github.io/noaa-fit-dev)
-
 
 ## Quick Guide to admin processes
 
@@ -63,7 +63,7 @@ The FIT committee meets monthly and advises on the direction for the toolbox. Mo
 
 ### Google Analytics and Google search console
 
-Kathryn, Christine, and Avi have access. Contact them to learn more.
+Kathryn and Avi have access. Contact them to learn more.
 
 ## Disclaimer
 
